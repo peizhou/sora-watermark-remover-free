@@ -1,4 +1,4 @@
-# Sora Watermark Remover - Remove Sora Video Watermarks in 5 Seconds
+# Sora2 Watermark Remover - Remove Sora Video Watermarks in 5 Seconds
 
 <div align="center">
 
