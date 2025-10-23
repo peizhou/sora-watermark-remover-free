@@ -1,4 +1,4 @@
-# Sora Watermark Remover - 5秒でSoraビデオの透かしを無料で除去
+# Sora2 Video Watermark Remover - 5秒でSoraビデオの透かしを無料で除去
 
 <div align="center">
 
